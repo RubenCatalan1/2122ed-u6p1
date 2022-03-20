@@ -1,6 +1,6 @@
 package ed.ruben;
 
-public class Persona {
+public class Alumne {
 	
 	
 	public String nom;
@@ -15,8 +15,7 @@ public class Persona {
 				"cognoms = " + cognoms + System.lineSeparator() +
 				"any = " + any + System.lineSeparator() +
 				"cicleFormatiu = " + cicleFormatiu;
-				
-		
+					
 	}
 
 }
