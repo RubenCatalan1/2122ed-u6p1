@@ -18,6 +18,14 @@ Realitza un *fork* del projecte que es troba a: <https://github.com/arturocandel
 
 > Executa el codi i fes una captura del resultat en consola.
 
+Resultado en consola de ejecutar el código sin modificarlo:
+
+![Captura del resultado del codigo sin modificar](/resources/images/1-1.png)
+
+Resultado en consola tras modificar las cadenas para que muestre mi información:
+
+![Captura del resultado del codigo tras realizar la actividad 1](/resources/images/1-2.png)
+
 ## 2. **Refactoritza** el codi font de la següent forma: ( Fes les captures de totes les finestres que ixen)
 
 Canvia el nom dels atributs de la classe `Persona`. 
