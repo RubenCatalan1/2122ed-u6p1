@@ -84,6 +84,13 @@ Extrau les cadenes i números a constants de classe amb els següents noms: (Fes
 
 ( D'aquest apartat no es necessari fer un commit a menys que faltara algo del commit anterior)
 
+![Captura del resultado de compilar el codigo](/resources/images/1-4.png)
+
+
 ## 5. Fes una captura del codi font resultant després de refactoritzar
 
 ( D'aquest apartat no es necessari fer un commit a menys que faltara algo del commit anterior)
+
+![Codigo resultante de la clase Institut](/resources/images/1-5a.png)
+
+![Codigo resultante de la clase Alumne](/resources/images/1-5b.png)
