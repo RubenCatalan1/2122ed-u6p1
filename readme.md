@@ -20,11 +20,11 @@ Realitza un *fork* del projecte que es troba a: <https://github.com/arturocandel
 
 Resultado en consola de ejecutar el código sin modificarlo:
 
-![Captura del resultado del codigo sin modificar](/resources/images/1-1.png)
+![Captura del resultado del codigo sin modificar](/resources/images/1-1a.png)
 
 Resultado en consola tras modificar las cadenas para que muestre mi información:
 
-![Captura del resultado del codigo tras realizar la actividad 1](/resources/images/1-2.png)
+![Captura del resultado del codigo tras realizar la actividad 1](/resources/images/1-1b.png)
 
 ## 2. **Refactoritza** el codi font de la següent forma: ( Fes les captures de totes les finestres que ixen)
 
@@ -44,14 +44,41 @@ Canvia el nom de les classes:
 * School -> Intitut
 * Persona -> Alumne
 
+Resultado una vez realizados los cambios:
+
+![Captura del resultado tras realizar Actividad2](/resources/images/1-2.png)
+
 ## 3. En el mètode `main()`, **refactoritza**
 
 Extrau les cadenes i números a constants de classe amb els següents noms: (Fes **captures** de totes les finestres que ixen)
 
 "Arturo" -> `NOM_ALUMNE`
+
+![Convertimos "Ruben" en constante paso 1 ](/resources/images/1-3a.png)
+
+![Convertimos "Ruben" en constante paso 2 ](/resources/images/1-3b.png)
+
 "Candela" -> `COGNOMS_ALUMNE`
+
+![Convertimos "Catalan" en constante paso 1 ](/resources/images/1-3c.png)
+
+![Convertimos "Catalan" en constante paso 2 ](/resources/images/1-3d.png)
+
+
 "1º DAM/DAW" -> `CICLE_FORMATIU`
+
+![Convertimos "1º DAW" en constante paso 1 ](/resources/images/1-3e.png)
+
+![Convertimos "1º DAW" en constante paso 2 ](/resources/images/1-3f.png)
+
+
 2019 -> `ANY`
+
+![Convertimos "2021" en constante paso 1 ](/resources/images/1-3g.png)
+
+![Convertimos "2021" en constante paso 2 ](/resources/images/1-3h.png)
+
+
 
 ## 4. Executa el programa i fes una captura en consola
 
